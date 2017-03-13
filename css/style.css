@@ -93,6 +93,10 @@ colore3 #2F74A9
 colore4 #E6F2F9
 */
 
+.bottone-scopri {
+    margin-bottom: 1em;
+}
+
 
 /* colori navbar */
 .navbar {
